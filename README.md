@@ -2,10 +2,7 @@
 
 Diario personal que se maneja con la voz. Grabas una nota en tu **reloj Wear OS**, una IA la **transcribe**, la **resume** y detecta la **emoción** y los **temas**, y la nota aparece automáticamente en la **app del teléfono**, donde se ve como una lista y como una constelación.
 
-> Proyecto de clase: **[NOMBRE DEL CURSO]** · **[TU NOMBRE]** · **[FECHA]**
 
-<!-- Agrega aquí capturas o un GIF del reloj y del teléfono, por ejemplo:
-![Reloj](docs/reloj.png) ![Teléfono](docs/telefono.png) -->
 
 ---
 
