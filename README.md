@@ -181,4 +181,4 @@ Puede tardar unos segundos, y hasta aproximadamente un minuto, en reflejarse.
 
 ## Autoría
 
-**[TU NOMBRE]** — [CURSO / INSTITUCIÓN] — [AÑO]
+**Edgar Villagrana** — [IDGS] — [2026]
