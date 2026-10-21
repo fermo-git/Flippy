@@ -1,0 +1,8 @@
+name = "diario-voz-proxy"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+# Las claves NO van aquí. Se guardan como secretos:
+#   npx wrangler secret put OPENAI_API_KEY
+#   npx wrangler secret put ANTHROPIC_API_KEY
+#   npx wrangler secret put APP_TOKEN        (opcional, una palabra larga cualquiera)

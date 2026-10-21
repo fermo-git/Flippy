@@ -1,0 +1,10 @@
+name = "diario-voz-proxy"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+# Almacén para sincronizar notas con el teléfono.
+# Crea uno con:  npx wrangler kv namespace create NOTAS
+# y pega abajo el "id" que imprime.
+[[kv_namespaces]]
+binding = "NOTAS"
+id = "eade7d3634374f938c90138a6387b29b"

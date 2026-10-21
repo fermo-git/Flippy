@@ -1,0 +1,34 @@
+# ===== Android / Gradle (carpeta reloj/) =====
+build/
+.gradle/
+.idea/
+local.properties
+*.iml
+captures/
+.cxx/
+*.apk
+*.aab
+
+# ===== Node / Expo (carpeta telefono/) =====
+node_modules/
+.expo/
+dist/
+web-build/
+npm-debug.*
+
+# ===== Cloudflare (carpeta proxy/) =====
+.wrangler/
+.dev.vars
+
+# ===== Secretos: NUNCA se suben =====
+.env
+.env.local
+.env.*.local
+*.keystore
+*.jks
+
+# ===== Sistema y editores =====
+.DS_Store
+Thumbs.db
+.vscode/
+.claude/
